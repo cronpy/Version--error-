@@ -1,1 +1,1 @@
-alias="find -n "*.py" | xargs grep _main"
+alias _main="find . -name "*.py" | xargs grep _main"
